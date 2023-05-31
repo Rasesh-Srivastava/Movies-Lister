@@ -24,7 +24,7 @@ Check out the Trending, Top Rated and Now Playing Movies using this App.
 
 ## Download the APK
 
-[Install the app using this APK]([https://docs.flutter.dev/get-started/codelab](https://drive.google.com/file/d/1PIgxjeDmzeHBZGiVg1X_erBFLKMPxMo8/view?usp=sharing))
+[Install the app using this APK](https://drive.google.com/file/d/1PIgxjeDmzeHBZGiVg1X_erBFLKMPxMo8/view?usp=sharing)
 
 ## FeedBack
 
