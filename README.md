@@ -1,16 +1,33 @@
-# final_movie
+# Movies App
 
-A new Flutter project.
+Check out the Trending, Top Rated and Now Playing Movies using this App.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Trending, Top Rated and Now Playing Movies
+- Movie Poster
+- Average Rating
+- Release Date
+- Description of the Movies
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![WhatsApp Image 2023-05-31 at 9 48 21 PM](https://github.com/Rasesh-Srivastava/Movies-Lister/assets/116264587/74c61b89-3615-4746-8e6a-4865d3796925)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-05-31 at 9 48 22 PM](https://github.com/Rasesh-Srivastava/Movies-Lister/assets/116264587/fdc248ad-5944-4565-b23f-b43f42c488e6)
+
+## Tech Stack
+
+- Flutter
+- External API Used: TMDB API
+- External Package Used: tmdb_api
+
+## Download the APK
+
+[Install the app using this APK]([https://docs.flutter.dev/get-started/codelab](https://drive.google.com/file/d/1PIgxjeDmzeHBZGiVg1X_erBFLKMPxMo8/view?usp=sharing))
+
+## FeedBack
+
+If you have any suggestions or feedback, please reach out to me at rasesh220303@gmail.com
+
+
