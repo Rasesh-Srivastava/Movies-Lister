@@ -12,9 +12,9 @@ Check out the Trending, Top Rated and Now Playing Movies using this App.
 
 ## Screenshots
 
-![WhatsApp Image 2023-05-31 at 9 48 21 PM](https://github.com/Rasesh-Srivastava/Movies-Lister/assets/116264587/74c61b89-3615-4746-8e6a-4865d3796925)
+![Image 1](https://drive.google.com/uc?export=view&id=1DzpTAneBX82ZpVkt-J5ug7bxVPJ3FSgt)
 
-![WhatsApp Image 2023-05-31 at 9 48 22 PM](https://github.com/Rasesh-Srivastava/Movies-Lister/assets/116264587/fdc248ad-5944-4565-b23f-b43f42c488e6)
+![Image 2](https://drive.google.com/uc?export=view&id=1GfjVRzZCe1jS8pAMeaEZGpP1l-a9WvrU)
 
 ## Tech Stack
 
